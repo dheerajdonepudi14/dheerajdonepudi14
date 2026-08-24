@@ -18,18 +18,11 @@
 
 ## ⚡ SYSTEM STATUS
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  DHEERAJ@SECURITY-LAB                                              │
-├─────────────────────────────────────────────────────────────────────┤
-│  STATUS       : ONLINE                                             │
-│  MODE         : OFFENSIVE SECURITY                                 │
-│  SPECIALITY   : WEB + NETWORK + AD                                 │
-│  AUTOMATION   : PYTHON / BASH / POWERSHELL                         │
-│  LABS         : HACK THE BOX + TRYHACKME                           │
-│  METHODOLOGY  : RECON → ENUM → EXPLOIT → ESCALATE → REPORT         │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="./assets/system-status.svg" width="100%" alt="Animated Dheeraj Security Lab system status terminal"/>
+
+</div>
 
 > **I don't just run security tools. I focus on understanding what happens underneath them.**
 
@@ -352,7 +345,7 @@ Understanding detection, telemetry and response makes offensive testing more rea
 
 <a href="https://dheerajportifolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00FF9C?style=for-the-badge&labelColor=050505"/></a>
 <a href="https://www.linkedin.com/in/dheeraj-donepudi-320145276/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dheerajdonepudi18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dheerajdonepudi18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail"/></a>
 
 <br><br>
 
