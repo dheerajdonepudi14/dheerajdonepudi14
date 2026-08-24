@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#062b45"/><stop offset=".5" stop-color="#087f8c"/><stop offset="1" stop-color="#02151f"/></linearGradient>
+ <radialGradient id="island"><stop stop-color="#ffe98a"/><stop offset=".65" stop-color="#d99b42"/><stop offset="1" stop-color="#71451f"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <path id="route" d="M150 530 Q290 430 410 470 T650 350 Q800 250 1030 170"/>
+</defs>
+<rect width="1200" height="720" rx="28" fill="url(#sea)"/>
+<g opacity=".16" stroke="#8ffcff" fill="none">
+ <path d="M0 90 Q180 20 360 100 T720 80 T1200 110M0 610 Q180 540 360 630 T720 600 T1200 640" stroke-width="3"/>
+ <path d="M40 170h1120M40 250h1120M40 330h1120M40 410h1120M40 490h1120M40 570h1120"/>
+ <path d="M150 20v680M300 20v680M450 20v680M600 20v680M750 20v680M900 20v680M1050 20v680"/>
+</g>
+<g fill="#eafcff" opacity=".8"><circle cx="90" cy="110" r="3"/><circle cx="1070" cy="560" r="3"/><circle cx="760" cy="110" r="2"/><circle cx="220" cy="350" r="2"/></g>
+<g filter="url(#glow)">
+ <path d="M115 560 Q170 500 230 530 Q275 570 330 520 Q370 470 430 490 Q470 525 520 450 Q575 390 635 420 Q700 445 740 350 Q800 270 870 300 Q940 335 1015 180 Q1040 135 1090 160 Q1120 195 1080 230 Q1030 260 990 245 Q920 360 850 345 Q785 330 745 410 Q690 500 620 455 Q565 430 525 495 Q480 555 420 530 Q360 505 320 565 Q250 615 190 575 Q145 600 115 560Z" fill="url(#island)" stroke="#ffd76a" stroke-width="5"/>
+</g>
+<g font-family="Verdana, sans-serif" text-anchor="middle" fill="#fff8d6">
+ <text x="600" y="52" font-size="30" font-weight="700" letter-spacing="6">☠ SECURITY TREASURE MAP</text>
+ <text x="600" y="82" font-size="14" fill="#9ffff5">DHEERAJ DONEPUDI · OFFENSIVE SECURITY JOURNEY</text>
+</g>
+<g font-family="Verdana, sans-serif" font-weight="700" text-anchor="middle">
+ <g><circle cx="150" cy="530" r="30" fill="#00e5ff" stroke="#fff" stroke-width="4"/><text x="150" y="536" font-size="13" fill="#00151d">RECON</text></g>
+ <g><circle cx="410" cy="470" r="30" fill="#ffcf40" stroke="#fff" stroke-width="4"/><text x="410" y="476" font-size="12" fill="#241700">ENUM</text></g>
+ <g><circle cx="650" cy="350" r="30" fill="#ff6b35" stroke="#fff" stroke-width="4"/><text x="650" y="356" font-size="12" fill="#fff">EXPLOIT</text></g>
+ <g><circle cx="850" cy="300" r="30" fill="#ff3d81" stroke="#fff" stroke-width="4"/><text x="850" y="306" font-size="11" fill="#fff">ESCALATE</text></g>
+ <g><circle cx="1030" cy="180" r="30" fill="#73ff8b" stroke="#fff" stroke-width="4"/><text x="1030" y="186" font-size="11" fill="#062b14">RESEARCH</text></g>
+</g>
+<g font-family="Verdana, sans-serif" fill="#fff" font-size="14" font-weight="700">
+ <text x="105" y="625">🌊 WEB PENTESTING</text><text x="370" y="650">⚓ NETWORK SECURITY</text><text x="655" y="585">🏴 ACTIVE DIRECTORY</text><text x="900" y="470">💰 PRIVESC</text><text x="935" y="110">💎 ADVANCED PENTESTING</text>
+</g>
+<g>
+ <path d="M150 530 Q290 430 410 470 T650 350 Q800 250 1030 180" fill="none" stroke="#fff" stroke-width="5" stroke-dasharray="14 12" opacity=".8">
+  <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="1.8s" repeatCount="indefinite"/>
+ </path>
+ <circle r="9" fill="#fff"><animateMotion dur="5s" repeatCount="indefinite"><mpath href="#route"/></animateMotion></circle>
+</g>
+<g transform="translate(565 115)" fill="#fff"><path d="M0 0l28 14-28 14 9-14z"/><path d="M28 14l22-8-7 8 7 8z" fill="#ffd34e"/></g>
+<g transform="translate(1060 530)" font-family="Verdana" text-anchor="middle"><circle r="58" fill="none" stroke="#ffd34e" stroke-width="5"/><path d="M-48 0H48M0-48V48M-34-34L34 34M34-34L-34 34" stroke="#ffd34e" stroke-width="3"/><text y="82" fill="#fff" font-size="14">N</text></g>
+<g transform="translate(90 665)" fill="#fff8d6" font-family="Verdana"><text font-size="13">MAP STATUS: ACTIVE</text><text x="200" font-size="13" fill="#9ffff5">TREASURE: SECURITY RESEARCH</text></g>
+</svg>
