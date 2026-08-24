@@ -157,32 +157,11 @@ Vasireddy Venkatadri Institute of Technology · `2021 — 2025` · **CGPA 7.5/10
 
 ## 🖥️ INTERACTIVE TERMINAL
 
-```console
-┌──(dheeraj㉿security-lab)-[~]
-└─$ help
+<div align="center">
+<img src="./assets/interactive-terminal.svg" width="100%" alt="Animated Parrot OS style cybersecurity terminal"/>
+</div>
 
-  about       → profile & security focus
-  skills      → security arsenal
-  projects    → security projects
-  labs        → HTB / THM work
-  experience  → professional experience
-  certs       → certifications
-  contact     → connect with me
-
-┌──(dheeraj㉿security-lab)-[~]
-└─$ ./recon --target career
-
-[+] Initializing reconnaissance...
-[+] Mapping attack surface...
-[✓] Web Security
-[✓] Network Security
-[✓] Active Directory
-[✓] Security Automation
-[✓] SOC Operations
-[✓] Security Research
-
-[+] Target mapped successfully.
-```
+> **Terminal simulation:** a visual representation of the security workflow and tools I work with. The commands are illustrative, not an executable shell.
 
 ---
 
