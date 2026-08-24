@@ -172,7 +172,12 @@ Vasireddy Venkatadri Institute of Technology · `2021 — 2025` · **CGPA 7.5/10
 ---
 
 ## 🏆 ACHIEVEMENT MATRIX
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dheerajdonepudi14&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/></div>
+
+<div align="center">
+<img src="./assets/achievement-matrix.svg" width="100%" alt="Animated cybersecurity achievement matrix for Dheeraj Donepudi"/>
+</div>
+
+---
 
 ## 📈 ACTIVITY STREAM
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajdonepudi14&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/></div>
