@@ -1,81 +1,76 @@
-# 🛡️ Hello, I'm Dheeraj Donepudi
+<div align="center">
 
-### Cybersecurity | Penetration Testing | Security Research | Security Automation
+# 🛡️ DHEERAJ DONEPUDI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+Application+Penetration+Tester;Network+Security+%7C+Active+Directory;Security+Automation+with+Python;Offensive+Security+%7C+SOC;Building+Tools%2C+Breaking+Systems%2C+Learning+Every+Day" />
-</p>
+### `OFFENSIVE SECURITY` · `PENETRATION TESTING` · `SECURITY RESEARCH`
 
-<p align="center">
-  <a href="https://linkedin.com/in/dheeraj-donepudi-320145276"><img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Donepudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dheerajsaiportifolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:dheerajdonepudi18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=850&lines=Web+Application+Penetration+Tester;Network+Security+%7C+Active+Directory;Security+Automation+with+Python;SOC+%7C+Detection+%7C+Incident+Response;Building+Tools+%7C+Breaking+Systems+%7C+Learning+Daily" alt="Typing animation" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,50:0b1f1a,100:00ff9c&section=header&text=&fontSize=0" width="100%"/>
 
-## 🧠 About Me
+<a href="https://dheerajportifolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00FF9C?style=for-the-badge&labelColor=050505"/></a>
+<a href="https://www.linkedin.com/in/dheeraj-donepudi-320145276/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dheerajdonepudi18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-I'm a **Cybersecurity professional focused on offensive security**, with hands-on experience across web application penetration testing, network security, Active Directory, reconnaissance, vulnerability assessment, SOC monitoring, incident response, and Python-based security automation.
-
-I follow a structured methodology:
-
-`Recon → Enumeration → Vulnerability Discovery → Manual Exploitation → Privilege Escalation → Post-Exploitation → Evidence → Reporting`
-
-I also build security-focused software and automation tools, combining cybersecurity with full-stack development.
+</div>
 
 ---
 
-## ⚔️ Security Focus
+## ⚡ SYSTEM STATUS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  DHEERAJ@SECURITY-LAB                                              │
+├─────────────────────────────────────────────────────────────────────┤
+│  STATUS       : ONLINE                                             │
+│  MODE         : OFFENSIVE SECURITY                                 │
+│  SPECIALITY   : WEB + NETWORK + AD                                 │
+│  AUTOMATION   : PYTHON / BASH / POWERSHELL                         │
+│  LABS         : HACK THE BOX + TRYHACKME                           │
+│  METHODOLOGY  : RECON → ENUM → EXPLOIT → ESCALATE → REPORT         │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-### 🔴 Offensive Security
-
-- Web Application VAPT
-- OWASP Top 10
-- SQL Injection
-- Cross-Site Scripting
-- IDOR
-- Authentication Testing
-- Security Misconfiguration
-- Network Enumeration
-- Vulnerability Assessment
-- Exploitation
-- Privilege Escalation
-- Post-Exploitation
-
-</td>
-<td width="50%" valign="top">
-
-### 🟦 Enterprise Security
-
-- Active Directory Enumeration
-- BloodHound / SharpHound
-- Kerberoasting
-- AS-REP Roasting
-- Pass-the-Hash
-- ACL Abuse
-- Mimikatz
-- DCSync
-- Impacket
-- SOC Monitoring
-- Log Analysis
-- Incident Response
-
-</td>
-</tr>
-</table>
+> **I don't just run security tools. I focus on understanding what happens underneath them.**
 
 ---
 
-## 🛠️ Security Arsenal
+## 🧠 ABOUT ME
 
-### Offensive Security
+Cybersecurity professional focused on **offensive security, penetration testing, security research and automation**. My work combines hands-on security testing with the ability to build Python-based tools and security-focused applications.
 
-<p>
+### 🔥 Core Areas
+
+| Offensive Security | Enterprise / Defensive | Engineering |
+|:---|:---|:---|
+| Web VAPT | SOC Monitoring | Python |
+| Network Pentesting | SIEM / Log Analysis | Flask |
+| OWASP Top 10 | Incident Response | React |
+| Active Directory | Detection Engineering | SQL |
+| Privilege Escalation | Threat Analysis | Bash / PowerShell |
+| Recon & Enumeration | Security Automation | REST APIs |
+
+<details>
+<summary><b>🔎 My penetration-testing workflow</b></summary>
+
+<br>
+
+`01 RECON` → `02 ENUMERATION` → `03 ATTACK SURFACE` → `04 VULNERABILITY ANALYSIS` → `05 EXPLOITATION` → `06 PRIVILEGE ESCALATION` → `07 POST-EXPLOITATION` → `08 EVIDENCE` → `09 REPORTING`
+
+</details>
+
+---
+
+## ⚔️ SECURITY ARSENAL
+
+<div align="center">
+
+### 🔴 OFFENSIVE
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,powershell" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
@@ -83,210 +78,286 @@ I also build security-focused software and automation tools, combining cybersecu
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nikto-333333?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gobuster-222222?style=for-the-badge"/>
-</p>
 
-### Security Operations
+### 🟦 DEFENSIVE / SOC
 
-<p>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge"/>
-</p>
 
-### Programming & Automation
+### 💻 BUILD / AUTOMATE
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,react,flask,nodejs,mongodb,mysql,git,github" />
 
-### Development
-
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Security Projects
+## 🚀 SECURITY OPERATIONS — PROJECTS
 
-### 🔱 Sudarshana Chakra — Reconnaissance Framework
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Advanced Python-based OSINT reconnaissance tool for collecting and correlating publicly available intelligence.
+### 🔱 Sudarshana Chakra
+**OSINT Reconnaissance Framework**
 
-**Focus:** OSINT · Reconnaissance · Intelligence Gathering · Automation
+Python-based intelligence and reconnaissance framework designed to collect and correlate publicly available information.
 
-🔗 https://github.com/dheerajdonepudi14/Sudarshana-Chakra-Recon-Tool-
+`Python` `OSINT` `Recon` `Automation`
+
+<a href="https://github.com/dheerajdonepudi14/Sudarshana-Chakra-Recon-Tool-">↗ VIEW REPOSITORY</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🦅 Garuda Recon
+**Reconnaissance Framework**
 
-Python-based reconnaissance framework focused on email and domain intelligence.
+Security automation project focused on email/domain intelligence and reconnaissance workflows.
 
-**Focus:** Reconnaissance · OSINT · Domain Intelligence · Security Automation
+`Python` `OSINT` `Domain Intel` `Automation`
 
-🔗 https://github.com/dheerajdonepudi14/Garuda-Recon-tool
+<a href="https://github.com/dheerajdonepudi14/Garuda-Recon-tool">↗ VIEW REPOSITORY</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ Real-Time SOC Lab
+**SOC / Detection Environment**
 
-Hands-on SOC environment focused on monitoring, log analysis, security events and defensive investigation.
+Hands-on defensive security lab covering monitoring, logs, security events and investigation workflows.
 
-**Focus:** SOC · SIEM · Detection · Log Analysis · Incident Response
+`SOC` `SIEM` `Detection` `IR`
 
-🔗 https://github.com/dheerajdonepudi14/Real-Time-Soc-Lab-1-
+<a href="https://github.com/dheerajdonepudi14/Real-Time-Soc-Lab-1-">↗ VIEW REPOSITORY</a>
 
-### 🦠 Malware Detection Using Deep Learning in EDR
+</td>
+<td width="50%" valign="top">
 
-Security-focused machine-learning system for detecting malicious Windows executables.
+### 🦠 AI Malware Detection — EDR
+**Deep Learning Security System**
 
-**Stack:** Python · TensorFlow/Keras · DNN · Flask
+DNN-based Windows executable malware classifier using PE features, Flask and real-time analysis.
 
-- 🧠 Deep Neural Network malware classifier
-- 📊 99% reported classification accuracy
-- 🔬 PE feature extraction
-- 🌐 Flask analysis interface
-- 🚨 Real-time file analysis and alerting
+`Python` `DNN` `PEfile` `Flask` `EDR`
 
-### 🍔 Full-Stack Food Delivery Application
+**Reported accuracy: 99%**
 
-Full-stack application demonstrating my software-engineering foundation with authentication, cart, checkout, order tracking, admin functionality, REST APIs, database design and input validation.
+</td>
+</tr>
+</table>
 
-**Stack:** Flask · React · SQL · REST APIs
+<details>
+<summary><b>🍔 Software Engineering Project</b></summary>
 
----
+### Full-Stack Food Delivery Application
 
-## 🧪 Cybersecurity Labs
+A full-stack application demonstrating authentication, cart, checkout, order tracking, admin functionality, REST APIs, database design and validation.
 
-### TryHackMe
+`Flask` `React` `SQL` `REST API`
 
-**10+ machines solved** across web exploitation, network security, enumeration, privilege escalation and Active Directory.
-
-### Hack The Box
-
-Hands-on practice with real-world machine-style environments and CTF challenges.
-
-**Learning path:** `Enumeration → Exploitation → Privilege Escalation → AD → Reporting`
+</details>
 
 ---
 
-## 🎯 Current Security Roadmap
+## 🧪 LAB / CTF ACTIVITY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TRYHACKME-10%2B%20MACHINES-EF2D5E?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/HACK%20THE%20BOX-ACTIVE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+</div>
 
 ```text
-                OFFENSIVE SECURITY
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-        WEB          NETWORK        AD
-       VAPT          PENTEST      SECURITY
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                PRIVILEGE ESCALATION
-                       │
-                       ▼
-                POST-EXPLOITATION
-                       │
-                       ▼
-                 SECURITY RESEARCH
+WEB                NETWORK             WINDOWS / AD
+────────────────   ────────────────    ─────────────────
+Enumeration        Port Scanning       AD Enumeration
+Web Exploitation   Service Analysis    Kerberoasting
+SQLi / XSS         Vulnerability       Privilege Escalation
+Authentication     Enumeration          Post Exploitation
 ```
 
-Currently strengthening Web Application Pentesting, Network Pentesting, Active Directory, Linux/Windows Privilege Escalation, Security Automation, Vulnerability Research, and SOC/Detection Engineering.
+<details>
+<summary><b>🎯 Current learning path</b></summary>
+
+<br>
+
+**Web → Network → Linux PrivEsc → Windows PrivEsc → Active Directory → Advanced Pentesting → Security Research**
+
+</details>
 
 ---
 
-## 🏆 Certifications
+## 🧩 EXPERIENCE
 
-<p>
-<img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fortinet-Certified%20Associate%20in%20Cybersecurity-E60012?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HSCCP-Cybersecurity%20Professional-111111?style=for-the-badge"/>
-</p>
+### Cyber Security Analyst Intern — Cartel Software Pvt. Ltd. / Hacker School
 
-Additional certifications and training include Python and SQL certifications from HackerRank and IBM front-end/web development coursework.
+`Aug 2025 — Feb 2026`
 
----
-
-## 💼 Professional Experience
-
-### Cyber Security Analyst Intern — Cartel Software Pvt. Ltd. (Hacker School)
-
-**Aug 2025 – Feb 2026**
-
-- Conducted web application VAPT against OWASP Top 10 vulnerabilities
-- Performed SQLi, XSS, IDOR and authentication-bypass testing
-- Used Burp Suite, Nmap, Nessus and Wireshark
-- Monitored SOC dashboards and security alerts
-- Worked with Splunk and IBM QRadar
-- Performed log analysis and event correlation
-- Simulated attack scenarios using Kali Linux and Metasploit
-- Developed Python/Bash automation for reconnaissance, log parsing and vulnerability reporting
+- Web application VAPT against OWASP Top 10
+- SQLi, XSS, IDOR and authentication testing
+- Burp Suite, Nmap, Nessus and Wireshark
+- SOC monitoring and alert analysis
+- Splunk and IBM QRadar
+- Log analysis and event correlation
+- Kali Linux and Metasploit attack simulations
+- Python/Bash automation for reconnaissance, parsing and reporting
 
 ---
 
-## 🎓 Education
+## 🏆 CERTIFICATIONS
 
-### B.Tech — Computer Science & Engineering (Cybersecurity)
+<div align="center">
 
-**Vasireddy Venkatadri Institute of Technology (VVIT)**  
-2021 – 2025 · **CGPA: 7.5/10**
+<img src="https://img.shields.io/badge/CEH-CERTIFIED%20ETHICAL%20HACKER-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GOOGLE-CYBERSECURITY-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/FORTINET-CYBERSECURITY-E60012?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HSCCP-CYBERSECURITY-111111?style=for-the-badge"/>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dheerajdonepudi14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajdonepudi14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dheerajdonepudi14&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophy
+## 🎓 EDUCATION
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheerajdonepudi14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajdonepudi14&theme=tokyo-night&hide_border=true" />
-</p>
+**B.Tech — Computer Science & Engineering (Cybersecurity)**  
+Vasireddy Venkatadri Institute of Technology · `2021 — 2025` · **CGPA 7.5/10**
 
 ---
 
-## 🔐 Security Philosophy
+## 🖥️ INTERACTIVE TERMINAL
 
-> **Don't just run the tool. Understand what happens underneath.**
+```console
+┌──(dheeraj㉿security-lab)-[~]
+└─$ help
 
-`Recon → Understand → Exploit → Escalate → Document → Improve`
+  about       → profile & security focus
+  skills      → security arsenal
+  projects    → security projects
+  labs        → HTB / THM work
+  experience  → professional experience
+  certs       → certifications
+  contact     → connect with me
+
+┌──(dheeraj㉿security-lab)-[~]
+└─$ ./recon --target career
+
+[+] Initializing reconnaissance...
+[+] Mapping attack surface...
+[✓] Web Security
+[✓] Network Security
+[✓] Active Directory
+[✓] Security Automation
+[✓] SOC Operations
+[✓] Security Research
+
+[+] Target mapped successfully.
+```
 
 ---
 
-## 📫 Connect With Me
+## 📊 LIVE GITHUB TELEMETRY
 
-<p align="center">
-  <a href="https://linkedin.com/in/dheeraj-donepudi-320145276"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://dheerajsaiportifolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome"/></a>
-  <a href="mailto:dheerajdonepudi18@gmail.com"><img src="https://img.shields.io/badge/Email-Dheeraj-D14836?style=for-the-badge&logo=gmail"/></a>
-</p>
+<div align="center">
 
-<p align="center"><b>⚔️ Offensive Security • 🔎 Reconnaissance • 🛡️ Defense • 🤖 Automation</b></p>
-<p align="center"><i>Building. Breaking. Learning. Repeating.</i></p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajdonepudi14&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajdonepudi14&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00ff9c&text_color=c9d1d9"/>
+
+<br>
+
+<img width="700" src="https://streak-stats.demolab.com?user=dheerajdonepudi14&theme=transparent&hide_border=true&ring=00ff9c&fire=ff6b35&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=777777"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT MATRIX
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dheerajdonepudi14&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+</div>
+
+---
+
+## 📈 ACTIVITY STREAM
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajdonepudi14&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🗺️ SECURITY ROADMAP
+
+```text
+                         ┌──────────────────────┐
+                         │  OFFENSIVE SECURITY  │
+                         └──────────┬───────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             ▼                      ▼                      ▼
+       WEB PENTESTING         NETWORK PENTESTING      ACTIVE DIRECTORY
+             │                      │                      │
+             └──────────────────────┼──────────────────────┘
+                                    ▼
+                         PRIVILEGE ESCALATION
+                                    │
+                                    ▼
+                           POST EXPLOITATION
+                                    │
+                                    ▼
+                          SECURITY RESEARCH
+                                    │
+                                    ▼
+                           ADVANCED PENTESTING
+```
+
+---
+
+## 🔐 SECURITY PRINCIPLES
+
+<details>
+<summary><b>01 — Understand before automating</b></summary>
+
+Automation is useful only when you understand the underlying protocol, vulnerability and expected result.
+
+</details>
+
+<details>
+<summary><b>02 — Evidence matters</b></summary>
+
+A vulnerability without reproducible evidence and clear impact is a weak finding.
+
+</details>
+
+<details>
+<summary><b>03 — Think like both attacker and defender</b></summary>
+
+Understanding detection, telemetry and response makes offensive testing more realistic.
+
+</details>
+
+---
+
+## 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://dheerajportifolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00FF9C?style=for-the-badge&labelColor=050505"/></a>
+<a href="https://www.linkedin.com/in/dheeraj-donepudi-320145276/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dheerajdonepudi18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff9c,50:0b1f1a,100:050505&section=footer" width="100%"/>
+
+**⚔️ BUILD · BREAK · INVESTIGATE · AUTOMATE · REPEAT**
+
+</div>
