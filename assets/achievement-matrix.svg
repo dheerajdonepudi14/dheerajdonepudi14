@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Dheeraj Donepudi achievement matrix">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070a"/><stop offset="0.5" stop-color="#071b16"/><stop offset="1" stop-color="#020303"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff6a8"/><stop offset=".45" stop-color="#ffd54a"/><stop offset="1" stop-color="#ff8a00"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00ff9c" stroke-opacity=".08"/></pattern>
+  <style>
+    .title{font:700 25px 'DejaVu Sans',sans-serif;fill:#fff}.sub{font:12px monospace;fill:#8ca39d}.label{font:700 13px monospace;fill:#d9fff2}.small{font:11px monospace;fill:#8ca39d}.num{font:700 18px monospace;fill:#ffd54a}
+  </style>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="110" cy="70" r="75" fill="#00ff9c" opacity=".07" filter="url(#soft)"><animate attributeName="opacity" values=".03;.12;.03" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="280" r="100" fill="#ffd54a" opacity=".05" filter="url(#soft)"><animate attributeName="opacity" values=".02;.09;.02" dur="4s" repeatCount="indefinite"/></circle>
+<text x="55" y="55" class="title">🏆 ACHIEVEMENT MATRIX</text>
+<text x="55" y="78" class="sub">DHEERAJ@SECURITY-LAB  //  OPERATOR PROGRESS</text>
+<rect x="55" y="100" width="1090" height="1" fill="#00ff9c" opacity=".35"/>
+
+<!-- trophy cards -->
+<g transform="translate(55 125)">
+ <g><rect width="200" height="165" rx="16" fill="#08110f" stroke="#00ff9c" stroke-opacity=".4"/><circle cx="100" cy="48" r="29" fill="#00ff9c" opacity=".08" stroke="#00ff9c"/><text x="100" y="58" text-anchor="middle" font-size="34">⚔️</text><text x="100" y="94" text-anchor="middle" class="label">OFFENSIVE</text><text x="100" y="113" text-anchor="middle" class="small">SECURITY</text><text x="100" y="143" text-anchor="middle" class="num">PENTEST</text></g>
+ <g transform="translate(215)"><rect width="200" height="165" rx="16" fill="#0d0d08" stroke="#ffd54a" stroke-opacity=".5"/><circle cx="100" cy="48" r="29" fill="#ffd54a" opacity=".08" stroke="#ffd54a"/><text x="100" y="59" text-anchor="middle" font-size="34">🏆</text><text x="100" y="94" text-anchor="middle" class="label">CERTIFIED</text><text x="100" y="113" text-anchor="middle" class="small">ETHICAL HACKER</text><text x="100" y="143" text-anchor="middle" class="num">CEH</text></g>
+ <g transform="translate(430)"><rect width="200" height="165" rx="16" fill="#08110f" stroke="#00d9ff" stroke-opacity=".45"/><circle cx="100" cy="48" r="29" fill="#00d9ff" opacity=".08" stroke="#00d9ff"/><text x="100" y="59" text-anchor="middle" font-size="34">🧪</text><text x="100" y="94" text-anchor="middle" class="label">LAB</text><text x="100" y="113" text-anchor="middle" class="small">PRACTICE</text><text x="100" y="143" text-anchor="middle" class="num">HTB · THM</text></g>
+ <g transform="translate(645)"><rect width="200" height="165" rx="16" fill="#08110f" stroke="#b66cff" stroke-opacity=".5"/><circle cx="100" cy="48" r="29" fill="#b66cff" opacity=".08" stroke="#b66cff"/><text x="100" y="59" text-anchor="middle" font-size="34">🔬</text><text x="100" y="94" text-anchor="middle" class="label">RESEARCH</text><text x="100" y="113" text-anchor="middle" class="small">SECURITY TOOLS</text><text x="100" y="143" text-anchor="middle" class="num">BUILD</text></g>
+ <g transform="translate(860)"><rect width="200" height="165" rx="16" fill="#08110f" stroke="#ff5c8a" stroke-opacity=".45"/><circle cx="100" cy="48" r="29" fill="#ff5c8a" opacity=".08" stroke="#ff5c8a"/><text x="100" y="59" text-anchor="middle" font-size="34">🤖</text><text x="100" y="94" text-anchor="middle" class="label">AUTOMATION</text><text x="100" y="113" text-anchor="middle" class="small">PYTHON</text><text x="100" y="143" text-anchor="middle" class="num">SEC-AUTO</text></g>
+</g>
+<!-- animated scan -->
+<rect x="55" y="110" width="3" height="180" fill="#00ff9c" opacity=".8" filter="url(#glow)"><animate attributeName="x" values="55;1145;55" dur="5s" repeatCount="indefinite"/></rect>
+<text x="600" y="330" text-anchor="middle" class="sub">[ MATRIX ONLINE ]  //  SKILLS → CERTIFICATIONS → LABS → PROJECTS → RESEARCH</text>
+</svg>
